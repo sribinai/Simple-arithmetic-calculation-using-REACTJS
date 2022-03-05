@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Simple-arithmetic-calculation-using-REACTJS/static/css/main.b28d18cb.css",
+    "main.js": "/Simple-arithmetic-calculation-using-REACTJS/static/js/main.6d5503ae.js",
+    "static/js/787.142da1d4.chunk.js": "/Simple-arithmetic-calculation-using-REACTJS/static/js/787.142da1d4.chunk.js",
+    "index.html": "/Simple-arithmetic-calculation-using-REACTJS/index.html",
+    "main.b28d18cb.css.map": "/Simple-arithmetic-calculation-using-REACTJS/static/css/main.b28d18cb.css.map",
+    "main.6d5503ae.js.map": "/Simple-arithmetic-calculation-using-REACTJS/static/js/main.6d5503ae.js.map",
+    "787.142da1d4.chunk.js.map": "/Simple-arithmetic-calculation-using-REACTJS/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b28d18cb.css",
+    "static/js/main.6d5503ae.js"
+  ]
+}
